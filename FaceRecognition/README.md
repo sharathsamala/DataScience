@@ -4,6 +4,7 @@
 This is a sample face recognition model created using openCV, numpy and pillow
 
 
+
 | file_name | Info |
 | --- | --- |
 | haarcascade_frontalface_default.xml | This a openCV cascade classifier to detect a facial object |
