@@ -1,1 +1,3 @@
 FaceRecognition/GeneratedDataset/
+FaceRecognition/face_model.yml
+FaceRecognition/label_mapping.json
