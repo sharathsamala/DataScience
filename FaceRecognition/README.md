@@ -10,3 +10,7 @@ This is a sample face recognition model created using openCV, numpy and pillow
 | GenerateDataset.py | Generating the sample data for training, uses webcam |
 | TrainWithDataset.py | creating a model using the generated dataset |
 | FaceRecognition.py | once the trained model is generated, This can start face recognition | 
+
+1. Generate data
+2. Train a model using generated data
+3. Start detecting the faces
